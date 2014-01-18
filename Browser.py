@@ -1,5 +1,5 @@
 '''
-Created on Jun 13, 2010
+TextCaptchaBreaker. Created on Jun 13, 2010
 
 @author: Sajid Anwar
 '''

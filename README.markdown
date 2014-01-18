@@ -10,7 +10,7 @@ What is textCAPTCHA?
 
 > What is twenty five thousand two hundred and eight as digits?
 
-While created to block automated programs from answering these questions, they all follow identifiable patterns.
+While created to block automated programs from answering these questions, most, if not all, follow identifiable patterns.
 
 How does TextCaptchaBreaker work?
 ---------------------------------
